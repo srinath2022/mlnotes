@@ -5,5 +5,5 @@ format: jb-book
 root: intro
 chapters:
 - file: mljargon
-#- file: notebooks
+- file: llm
 #- file: markdown-notebooks
